@@ -1,0 +1,25 @@
+{
+  "proxies": [
+    {
+      "use_proxy": true,
+      "ip": "brd.superproxy.io",
+      "port": "22225",
+      "login": "brd-customer-hl_d7e357de-zone-isp_proxy1",
+      "password": "n7tzvzf172la"
+    },
+    {
+      "use_proxy": true,
+      "ip": "brd.superproxy.io",
+      "port": "22225",
+      "login": "brd-customer-hl_d7e357de-zone-isp_proxy2",
+      "password": "m56v8wn8spwm"
+    },
+    {
+      "use_proxy": true,
+      "ip": "brd.superproxy.io",
+      "port": "22225",
+      "login": "brd-customer-hl_d7e357de-zone-isp_proxy1",
+      "password": "n7tzvzf172la"
+    }
+  ]
+}
